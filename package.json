@@ -1,0 +1,23 @@
+{
+  "name": "tests.jovanne.souza.help",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesonBatista/tests.jovanne.souza.help.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesonBatista/tests.jovanne.souza.help/issues"
+  },
+  "homepage": "https://github.com/JamesonBatista/tests.jovanne.souza.help#readme",
+  "dependencies": {
+    "cypress": "^13.15.0"
+  }
+}
