@@ -15,7 +15,7 @@ describe("Help amigo", () => {
     cy.contains("a", "Eletrônicos").click();
     cy.contains("h2", "Eletrônicos");
 
-    cy.get('[class="ant-image-mask-info"]').eq(0).click();
+    cy.get('[class="ant-image vert-image-root  w-100"]').eq(0).click();
 
     cy.contains("Sobre o produto");
 
